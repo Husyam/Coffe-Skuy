@@ -1,4 +1,4 @@
-# final_projek
+# final projek Bootcamp Skodi
 
 A new Flutter project.
 
